@@ -1,7 +1,9 @@
 package main
 
-import "lesson_io/keyboard"
+import (
+	"go-tutorial/iodata"
+)
 
 func main() {
-	keyboard.Keyboard()
+	iodata.UseScanner()
 }
