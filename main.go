@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	iodata.ReadWriteCharset()
+	iodata.ReadBinary()
 }
