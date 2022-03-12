@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	iodata.ReadBinary()
+	iodata.Multiwr()
 }
