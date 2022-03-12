@@ -2,7 +2,7 @@
 
 ## Используемые пакеты
     * go get golang.org/x/text/encoding/charmap
-
+## Структура пакетов
 1. iodata - Работа с вводом выводом.
     * keyboard - с помощью scanf
     * scanner - echo с помощью bufio.NewScanner  
