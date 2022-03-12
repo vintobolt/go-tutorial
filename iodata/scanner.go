@@ -8,7 +8,7 @@ import (
 
 func UseScanner() {
 	sc := bufio.NewScanner(os.Stdin)
-	for sc.Scan() {
+	for sc.Scan() { // Scanning input from scanner
 		txt := sc.Text()
 		fmt.Printf("Echo: %s\n", txt)
 	}

@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	iodata.UseScanner()
+	iodata.ReadFile()
 }

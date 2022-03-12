@@ -17,6 +17,7 @@ func ReadFromStdin() {
 	}
 }
 
+// print imput data
 func process(data []byte) {
 	fmt.Printf("Recieved: %X	%s\n", data, string(data))
 }
