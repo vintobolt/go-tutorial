@@ -1,9 +1,9 @@
 package main
 
 import (
-	"go-tutorial/iodata"
+	"go-tutorial/gocore"
 )
 
 func main() {
-	iodata.Multiwr()
+	gocore.SwitchUsageWithoutVar()
 }

@@ -18,5 +18,5 @@ func IOERRImpl() {
 			panic(e)
 		}
 	}
-	fmt.Fprintln(os.Stdout, "\n")
+	fmt.Fprintln(os.Stdout, "Newline")
 }
