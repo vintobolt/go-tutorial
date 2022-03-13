@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gocore.SwitchUsageWithoutVar()
+	gocore.FloatFormat()
 }

@@ -7,6 +7,7 @@
     * array - Массивы.
     * booleantype - Булевый тип.
     * conditionalgo - Условные операторы.
+    * floatformatting - Форматирование и сравнение рациональных чисел
 ### 2. iodata - Работа с вводом выводом.
     * keyboard - Ввод с клавиатуры строки и Scanf.
     * scanner - Echo с помощью bufio.NewScanner.  
