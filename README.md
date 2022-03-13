@@ -3,7 +3,7 @@
 ## Используемые пакеты
     * go get golang.org/x/text/encoding/charmap
 ## Структура пакетов
-### 1. go-core - база языка.
+### 1. gocore - база языка.
     * array - Массивы.
     * booleantype - Булевый тип.
     * conditionalgo - Условные операторы.
