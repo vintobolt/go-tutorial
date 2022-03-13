@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gocore.FloatFormat()
+	gocore.OverflowInt()
 }

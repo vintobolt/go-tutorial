@@ -7,7 +7,9 @@
     * array - Массивы.
     * booleantype - Булевый тип.
     * conditionalgo - Условные операторы.
-    * floatformatting - Форматирование и сравнение рациональных чисел
+    * floatformatting - Форматирование и сравнение рациональных чисел.
+    * hexademicalvalue - Маленький и странный пример с 16-ми числами.
+    * intoverflow - Целочисленное переполнение в Go
 ### 2. iodata - Работа с вводом выводом.
     * keyboard - Ввод с клавиатуры строки и Scanf.
     * scanner - Echo с помощью bufio.NewScanner.  
