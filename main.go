@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gocore.OverflowInt()
+	gocore.BigNumbers()
 }
