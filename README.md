@@ -11,7 +11,10 @@
     * hexademicalvalue - Маленький и странный пример с 16-ми числами.
     * intoverflow - Целочисленное переполнение в Go
     * integerssignsbit - Биты целочисленный значений.
-    * Пакет Big для работы с большими числами.
+    * bignumber - Пакет Big для работы с большими числами.
+    * typeconverting - Конвертирование типов данных в Go
+    * runesexample - Пример с рунами.
+    * ciphers_example - Пример с шмфром Цезаря и Видженера.
 ### 2. iodata - Работа с вводом выводом.
     * keyboard - Ввод с клавиатуры строки и Scanf.
     * scanner - Echo с помощью bufio.NewScanner.  
