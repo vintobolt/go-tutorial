@@ -17,6 +17,7 @@
     * ciphers_example - Пример с шмфром Цезаря и Видженера.
     * methods_example - Простой пример с методами.
     * functions - Функции, анонимные функции, замыкания
+    * arrays_example - Еще один пример с массивами.
 ### 2. iodata - Работа с вводом выводом.
     * keyboard - Ввод с клавиатуры строки и Scanf.
     * scanner - Echo с помощью bufio.NewScanner.  
