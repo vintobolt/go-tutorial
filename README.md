@@ -15,6 +15,8 @@
     * typeconverting - Конвертирование типов данных в Go
     * runesexample - Пример с рунами.
     * ciphers_example - Пример с шмфром Цезаря и Видженера.
+    * methods_example - Простой пример с методами.
+    * firstclass_functions - Присвоение функции переменной.
 ### 2. iodata - Работа с вводом выводом.
     * keyboard - Ввод с клавиатуры строки и Scanf.
     * scanner - Echo с помощью bufio.NewScanner.  

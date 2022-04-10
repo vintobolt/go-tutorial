@@ -1,9 +1,9 @@
 package main
 
 import (
-	"go-tutorial/gocore"
+	"go-tutorial/gocore/functions/closures"
 )
 
 func main() {
-	gocore.Cipher_Vigener()
+	closures.ClosureExampleValues()
 }
