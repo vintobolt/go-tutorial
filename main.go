@@ -1,9 +1,9 @@
 package main
 
 import (
-	"go-tutorial/gocore/functions/closures"
+	"go-tutorial/gocore"
 )
 
 func main() {
-	closures.ClosureExampleValues()
+	gocore.ArraysIteration()
 }
