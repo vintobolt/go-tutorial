@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gocore.SliceWithMethods()
+	gocore.SlicesVarFuncs()
 }
