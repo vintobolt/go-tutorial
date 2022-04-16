@@ -19,6 +19,7 @@
     * functions - Функции, анонимные функции, замыкания.
     * arrays_example - Еще один пример с массивами.
     * slices - Слайсы.
+    * maps - Ассоциативный массив.
 ### 2. iodata - Работа с вводом выводом.
     * keyboard - Ввод с клавиатуры строки и Scanf.
     * scanner - Echo с помощью bufio.NewScanner.  
