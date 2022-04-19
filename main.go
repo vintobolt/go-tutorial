@@ -1,8 +1,7 @@
 package main
 
-import "go-tutorial/perf"
+import "go-tutorial/gocore"
 
 func main() {
-	perf.PerfMemoryAlign()
-	perf.PerfAlignOf()
+	gocore.PointersStructureWithout()
 }
