@@ -2,7 +2,8 @@ package methodsexample
 
 import "fmt"
 
-type celsius float64
+// declared in another file
+// type celsius float64
 type kelvin float64
 type fahrenheit float64
 

@@ -1,9 +1,8 @@
 package main
 
-import (
-	"go-tutorial/gocore"
-)
+import "go-tutorial/perf"
 
 func main() {
-	gocore.MapsFreqExample()
+	perf.PerfMemoryAlign()
+	perf.PerfAlignOf()
 }
