@@ -29,8 +29,13 @@ func PointerFuncWithPointerArgs(s *SomeStruct) {
 func PointersStructureWithout() {
 	someStruct := &SomeStruct{a: 15}
 	secondStruct := SomeStruct{a: 14}
-	fmt.Printf("%+v\n", someStruct)
+	fmt.Printf("Somestruct: %+v\n", someStruct)
 	someStruct.Add(5)
-	fmt.Printf("%+v\n", someStruct)
-	fmt.Printf("%+v\n", secondStruct)
+	fmt.Printf("someStruct: %+v\n", someStruct)
+	fmt.Printf("secondStruct: %+v\n", secondStruct)
+	PointerFuncWithPointerArgs(&secondStruct)
+	fmt.Printf("secondStruct: %+v\n", secondStruct)
 }
+
+// maps are pointers already
+// Pointers really needs for arrays and structs

@@ -21,6 +21,7 @@
     * slices - Слайсы.
     * maps - Ассоциативный массив.
     * pointers - Работа с указателями.
+    * nil_example - Примеры с Nil.
 ### 2. iodata - Работа с вводом выводом.
     * keyboard - Ввод с клавиатуры строки и Scanf.
     * scanner - Echo с помощью bufio.NewScanner.  
